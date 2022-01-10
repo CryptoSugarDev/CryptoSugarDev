@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CryptoSugarDev
+- 👀 I’m interested in cryptos obviously
+- 🌱 I’m currently learning rust
+- 📫 How to reach me email: cryptosugar24@protonmail.com
